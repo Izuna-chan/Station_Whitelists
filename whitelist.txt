@@ -1,0 +1,1 @@
+Codixer,forceDoor:forceroom:forceavatar:staff:pickup

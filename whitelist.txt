@@ -1,2 +1,5 @@
 MUDDKING,forceDoor:forceroom:forceavatar:staff:pickup
 Chibi1331,forceDoor:forceroom:forceavatar:staff:pickup
+CodixerBot,forceDoor:forceroom:forceavatar:staff:pickup
+Codixer,forceDoor:forceroom:forceavatar:staff:pickup
+WhiskeryThrone5,forceDoor:forceroom:forceavatar:staff:pickup

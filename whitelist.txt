@@ -1,8 +1,8 @@
 MUDDKING,
 Chibi1331,
 NexyQueen_,forcedoor
-CodixerBot,avatar
-Codixer,avatar
-WhiskeryThrone5,avatar
-Crusader_Pug,avatar
-Izuna-chan,avatar
+CodixerBot,room:station:avatar
+Codixer,room:station:avatar
+WhiskeryThrone5,room:station:avatar
+Crusader_Pug,room:station:avatar
+Izuna-chan,room:station:avatar

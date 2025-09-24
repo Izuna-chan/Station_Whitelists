@@ -1,4 +1,2 @@
-MUDDKING,
-Chibi1331,
-Codixer,forcestation:station:avatar
-Izuna-chan,forcestation:station:avatar
+Codixer,forcestation:station:avatar:truavatar
+Izuna-chan,forcestation:station:avatar:truavatar

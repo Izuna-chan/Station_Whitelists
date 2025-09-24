@@ -1,4 +1,4 @@
 MUDDKING,
 Chibi1331,
-Codixer,avatar:room:station:forcestation
-Izuna-chan,avatar:room:station:forcestation
+Codixer,forcestation:station:avatar
+Izuna-chan,forcestation:station:avatar

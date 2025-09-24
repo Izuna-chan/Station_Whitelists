@@ -1,8 +1,8 @@
 MUDDKING,forceDoor:forceroom:forceavatar:staff:pickup
 Chibi1331,forceDoor:forceroom:forceavatar:staff:pickup
-CodixerBot,avatar
-Codixer,avatar
-WhiskeryThrone5,avatar
-Crusader_Pug,avatar
-Izuna-chan,avatar
-NexyQueen_,avatar
+CodixerBot,forceDoor:forceroom:forceavatar:staff:pickup
+Codixer,forceDoor:forceroom:forceavatar:staff:pickup
+WhiskeryThrone5,forceDoor:forceroom:forceavatar:staff:pickup
+Crusader_Pug,forceDoor:forceroom:forceavatar:staff:pickup
+Izuna-chan,forceDoor:forceroom:forceavatar:staff:pickup
+NexyQueen_,forceDoor:forceroom:forceavatar:staff:pickup

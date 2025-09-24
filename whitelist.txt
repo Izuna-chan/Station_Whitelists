@@ -5,3 +5,4 @@ Codixer,avatar:forceDoor:forceroom:forceavatar:staff:pickup
 WhiskeryThrone5,avatar:forceDoor:forceroom:forceavatar:staff:pickup
 Crusader_Pug,avatar:forceDoor:forceroom:forceavatar:staff:pickup
 Izuna-chan,avatar:forceDoor:forceroom:forceavatar:staff:pickup
+NexyQueen_,forcedoor:forceDoor:forceroom:forceavatar:staff:pickup

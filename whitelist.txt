@@ -1,2 +1,2 @@
-Codixer,forcestation:station:avatar:emtavatar:forceavatar:truavatar
-The~Gentleman,staff:forceStation:forceavatar:forcestation:emtavatar:truavatar
+Codixer,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
+The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar

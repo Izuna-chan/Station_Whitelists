@@ -3,3 +3,4 @@ The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup

@@ -7,3 +7,4 @@ MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 ReleaseOfTheID,forcestation:station:avatar:emtavatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar
+Funnky,station:avatar

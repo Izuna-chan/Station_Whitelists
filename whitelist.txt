@@ -1,4 +1,5 @@
 Codixer,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
+SHIELD Bot,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar

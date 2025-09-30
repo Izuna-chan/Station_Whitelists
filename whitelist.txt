@@ -10,3 +10,4 @@ NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:e
 Funnky,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar
+WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar

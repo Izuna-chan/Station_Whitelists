@@ -17,6 +17,5 @@ akathered,station:avatar
 ShayXavi,station:avatar
 trueysmir996,station:avatar
 Codixer,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
-SHIELD Bot,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
 vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar

@@ -5,11 +5,11 @@ Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
-ReleaseOfTheID,
+ReleaseOfTheID,forcestation
 Funnky,
-Mooshrooum,
+Mooshrooum,forcestation
 polarsaucer,
-WhiskeryThrone5,
+WhiskeryThrone5,forcestation
 SmolBeannn,
 Psychotixjester,
 VeemoWiimo,

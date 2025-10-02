@@ -1,10 +1,10 @@
-The~Gentleman,
+The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 Airez1x,
-Roger_FireFox,
-Crusader_Pug,
-MaxxNchez8910,
-MUDDKING,
-Izuna-chan,
+Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 ReleaseOfTheID,
 Funnky,
 Mooshrooum,
@@ -17,4 +17,4 @@ akathered,
 ShayXavi,
 trueysmir996,
 vrprodude25,
-NexyQueen_,
+NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup

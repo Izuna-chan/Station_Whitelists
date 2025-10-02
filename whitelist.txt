@@ -10,11 +10,11 @@ Funnky,
 Mooshrooum,forcestation
 polarsaucer,
 WhiskeryThrone5,forcestation
-SmolBeannn,
-Psychotixjester,
+SmolBeannn,station:avatar
+Psychotixjester,station:avatar
 VeemoWiimo,
-akathered,
-ShayXavi,
-trueysmir996,
-vrprodude25,
+akathered,station:avatar
+ShayXavi,station:avatar
+trueysmir996,station:avatar
+vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup

@@ -7,8 +7,8 @@ MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 ReleaseOfTheID,forcestation:station:avatar:emtavatar
 Funnky,station:avatar
-Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar
-polarsaucer,station:avatar:emtavatar:truavatar
+Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
+polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar
 WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
 SmolBeannn,station:avatar
 Psychotixjester,station:avatar

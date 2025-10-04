@@ -1,10 +1,10 @@
-The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:emtavatar:truavatar
+The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar
 Airez1x,station:avatar:truavatar
-Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:emtavatar
-Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:emtavatar:truavatar:avatar
-MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:avatar:truavatar:emtavatar
-MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar
-Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar
+Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar
+Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
+MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:avatar:truavatar:emtavatar
+MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
+Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 ReleaseOfTheID,forcestation:station:avatar:emtavatar
 Funnky,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
@@ -18,7 +18,7 @@ ShayXavi,station:avatar
 trueysmir996,station:avatar
 Codixer,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar
 vrprodude25,station:avatar
-NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:emtavatar:truavatar:avatar
+NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
 Kiwi_Chan~,station:avatar:emtavatar
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 fluff․-․,station:avatar

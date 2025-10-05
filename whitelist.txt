@@ -28,3 +28,4 @@ Queen_Crystal,station:avatar
 Monfire,station:avatar
 -spiritwolf-,station:avatar
 Larjanc2,station:avatar
+Amaya_VR,forcestation:station:avatar:emtavatar:truavatar

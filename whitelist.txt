@@ -26,3 +26,4 @@ Kiwi_Chan~,station:avatar:emtavatar
 fluff․-․,station:avatar
 Queen_Crystal,station:avatar
 Monfire,station:avatar
+-spiritwolf-,station:avatar

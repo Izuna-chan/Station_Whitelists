@@ -1,4 +1,5 @@
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar
+GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 Airez1x,station:avatar:truavatar
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar

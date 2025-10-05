@@ -25,7 +25,7 @@ Kiwi_Chan~,station:avatar:emtavatar
 oldfoxy33,station:avatar
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 fluff․-․,station:avatar
-Queen_Crystal,station:avatar
+Queen_Crystal,station:avatar:emtavatar
 Monfire,station:avatar
 -spiritwolf-,station:avatar
 Larjanc2,station:avatar

@@ -31,3 +31,4 @@ Monfire,station:avatar
 Larjanc2,station:avatar
 Amaya_VR,forcestation:station:avatar:emtavatar:truavatar
 Dr Nox,station:avatar
+Rustthelion,station:avatar:emtavatar

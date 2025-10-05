@@ -27,3 +27,4 @@ fluff․-․,station:avatar
 Queen_Crystal,station:avatar
 Monfire,station:avatar
 -spiritwolf-,station:avatar
+Larjanc2,station:avatar

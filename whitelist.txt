@@ -22,6 +22,7 @@ vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
 markush31,station:avatar:forcestation:truavatar:emtavatar
 Kiwi_Chan~,station:avatar:emtavatar
+Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 oldfoxy33,station:avatar
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 fluff․-․,station:avatar

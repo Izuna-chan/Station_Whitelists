@@ -35,3 +35,4 @@ Dr Nox,station:avatar
 Rustthelion,station:avatar:emtavatar
 MINNINGking,station:avatar
 NiikoTransMtf,station:avatar
+Truck Guy,station:avatar

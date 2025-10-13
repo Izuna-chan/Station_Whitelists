@@ -37,3 +37,4 @@ MINNINGking,station:avatar:diplomat
 NiikoTransMtf,station:avatar
 Truck Guy,station:avatar
 Mister Chop,station:diplomat
+LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup

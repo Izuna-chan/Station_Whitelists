@@ -39,3 +39,4 @@ Mister Chop,station:diplomat
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 RisCooker,station:avatar
 Scorch․,station:avatar
+DemonitizedBoi,station:diplomat

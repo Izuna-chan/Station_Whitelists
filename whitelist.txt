@@ -46,3 +46,4 @@ alex_23_2001,station:avatar
 BeckyOreoDelta,station:avatar:emtavatar
 RisCooker,station:avatar
 _Dom_12,station:avatar
+Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup

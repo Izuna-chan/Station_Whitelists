@@ -15,7 +15,6 @@ Psychotixjester,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar
 akathered,station:avatar
 ShayXavi,station:avatar
-trueysmir996,station:avatar
 Codixer,forcestation:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar:avatar:staff:pickup
 vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
@@ -30,7 +29,6 @@ Monfire,station:avatar
 -spiritwolf-,station:avatar
 Larjanc2,station:avatar
 Amaya_VR,forcestation:station:avatar:emtavatar:truavatar
-Dr Nox,station:avatar
 Rustthelion,station:avatar:emtavatar
 MINNINGking,station:avatar:diplomat
 NiikoTransMtf,station:avatar
@@ -48,3 +46,5 @@ _Dom_12,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 hoppoulotl,station:avatar
 redbullry,station:avatar
+Dr Nox,station:avatar
+trueysmir996,station:avatar

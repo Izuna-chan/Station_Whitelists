@@ -24,7 +24,7 @@ Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 oldfoxy33,station:avatar
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 fluff․-․,station:avatar
-Queen_Crystal,station:avatar:emtavatar
+Queen_Crystal,station:avatar:emtavatar:forcestation:truavatar
 Monfire,station:avatar
 -spiritwolf-,station:avatar
 Larjanc2,station:avatar

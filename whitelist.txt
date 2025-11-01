@@ -8,7 +8,7 @@ Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:f
 ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
 Funnky,station:avatar:developer:forceunapproved
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
-polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar
+polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar
 SmolBeannn,station:avatar
 Psychotixjester,station:avatar

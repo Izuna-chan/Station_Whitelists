@@ -50,3 +50,4 @@ Dr Nox,station:avatar:developer:forceunapproved
 trueysmir996,station:avatar
 Rhaska,station:avatar
 Nightmare_420,station:avatar
+GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation

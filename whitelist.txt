@@ -4,9 +4,9 @@ Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:avatar:truavatar:emtavatar
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
-Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
-ReleaseOfTheID,forcestation:station:avatar:emtavatar
-Funnky,station:avatar
+Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:developer:forceunapproved
+ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
+Funnky,station:avatar:developer:forceunapproved
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar
 WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar
@@ -15,9 +15,9 @@ Psychotixjester,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar
 akathered,station:avatar
 ShayXavi,station:avatar
-Codixer,forcestation:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar:avatar:staff:pickup
+Codixer,forcestation:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar:avatar:staff:pickup:developer:forceunapproved
 vrprodude25,station:avatar
-NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar
+NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:emtavatar:truavatar:avatar:developer:forceunapproved
 markush31,station:avatar:forcestation:truavatar:emtavatar
 Kiwi_Chan~,station:avatar:emtavatar
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
@@ -46,7 +46,7 @@ _Dom_12,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 hoppoulotl,station:avatar
 redbullry,station:avatar
-Dr Nox,station:avatar
+Dr Nox,station:avatar:developer:forceunapproved
 trueysmir996,station:avatar
 Rhaska,station:avatar
 Nightmare_420,station:avatar

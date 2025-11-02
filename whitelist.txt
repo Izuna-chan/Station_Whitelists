@@ -54,3 +54,4 @@ GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
 camthevrgamer17,station:avatar
 VoidMoonEncore,station:avatar
 Tycoon11112,station:avatar
+KuqiKitty,station:avatar

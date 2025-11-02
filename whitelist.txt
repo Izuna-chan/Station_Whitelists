@@ -15,7 +15,6 @@ Psychotixjester,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar
 akathered,station:avatar
 ShayXavi,station:avatar
-Codixer,forcestation:emtavatar:forceemtavatar:truavatar:forcetruavatar:forceavatar:avatar:staff:pickup:forceunapproved:developer
 vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer
 markush31,station:avatar:forcestation:truavatar:emtavatar

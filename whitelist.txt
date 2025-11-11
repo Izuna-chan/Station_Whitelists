@@ -4,7 +4,6 @@ Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:avatar:truavatar:emtavatar
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved
-Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:developer
 ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
 Funnky,station:avatar:developer:forceunapproved
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar

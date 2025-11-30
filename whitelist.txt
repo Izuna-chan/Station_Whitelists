@@ -53,7 +53,6 @@ VoidMoonEncore,station:avatar
 Tycoon11112,station:avatar
 KuqiKitty,station:avatar
 ~AsieHusky~,station:avatar
-Codixer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Gamerbrian74,station:avatar
 Darkdemonwolf46,station:avatar

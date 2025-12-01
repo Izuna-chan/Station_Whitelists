@@ -65,4 +65,3 @@ Chiyo Nøir,station:avatar
 Lordthomas11,station:avatar
 DivineLiberty,station:avatar
 frost_64,station:avatar
-Codixer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer

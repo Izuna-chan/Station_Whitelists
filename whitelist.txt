@@ -22,7 +22,7 @@ Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 oldfoxy33,station:avatar
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 fluff․-․,station:avatar
-Queen_Crystal,emtavatar:forcestation:avatar:truavatar
+Queen_Crystal,emtavatar:forcestation:avatar:truavatar:station
 Monfire,station:avatar
 -spiritwolf-,station:avatar
 Larjanc2,station:avatar

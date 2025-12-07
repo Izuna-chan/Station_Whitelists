@@ -1,69 +1,69 @@
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar
-Airez1x,station:avatar:truavatar:pickup
+Airez1x,station:avatar:truavatar
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:avatar:truavatar:emtavatar
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved
-ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved:pickup
-Funnky,station:avatar:developer:forceunapproved:pickup
-Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar:pickup
+ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
+Funnky,station:avatar:developer:forceunapproved
+Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
-WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar:pickup
-SmolBeannn,station:avatar:pickup
-WhimsicalJester,station:avatar:pickup
-VeemoWiimo,station:avatar:emtavatar:truavatar:pickup
-akathered,station:avatar:pickup
-ShayXavi,station:avatar:pickup
-vrprodude25,station:avatar:pickup
+WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar
+SmolBeannn,station:avatar
+WhimsicalJester,station:avatar
+VeemoWiimo,station:avatar:emtavatar:truavatar
+akathered,station:avatar
+ShayXavi,station:avatar
+vrprodude25,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer
-markush31,station:avatar:forcestation:truavatar:emtavatar:pickup
-Kiwi_Chan~,station:avatar:emtavatar:pickup
-Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar:pickup
-oldfoxy33,station:avatar:pickup
-༒sᴇʀᴇɴɪᴛʏ༒,station:avatar:pickup
-fluff․-․,station:avatar:pickup
-Queen_Crystal,emtavatar:forcestation:avatar:truavatar:station:pickup
-Monfire,station:avatar:pickup
--spiritwolf-,station:avatar:pickup
-Larjanc2,station:avatar:pickup
-Amaya_VR,forcestation:station:avatar:emtavatar:truavatar:pickup
-Rustthelion,station:avatar:emtavatar:pickup
-MINNINGking,station:avatar:diplomat:pickup
-NiikoTransMtf,station:avatar:pickup
-Truck Guy,station:avatar:pickup
+markush31,station:avatar:forcestation:truavatar:emtavatar
+Kiwi_Chan~,station:avatar:emtavatar
+Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
+oldfoxy33,station:avatar
+༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
+fluff․-․,station:avatar
+Queen_Crystal,emtavatar:forcestation:avatar:truavatar:station
+Monfire,station:avatar
+-spiritwolf-,station:avatar
+Larjanc2,station:avatar
+Amaya_VR,forcestation:station:avatar:emtavatar:truavatar
+Rustthelion,station:avatar:emtavatar
+MINNINGking,station:avatar:diplomat
+NiikoTransMtf,station:avatar
+Truck Guy,station:avatar
 Mister Chop,station:diplomat
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved
-Scorch․,station:avatar:pickup
+Scorch․,station:avatar
 DemonitizedBoi,station:diplomat
-༒ CΛSPER ༒,station:avatar:pickup
-Phill_Almighty,station:avatar:pickup
-alex_24_2001,station:avatar:pickup
-BeckyOreoDelta,station:avatar:emtavatar:pickup
-_Dom_12,station:avatar:pickup
+༒ CΛSPER ༒,station:avatar
+Phill_Almighty,station:avatar
+alex_24_2001,station:avatar
+BeckyOreoDelta,station:avatar:emtavatar
+_Dom_12,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:avatar:truavatar:emtavatar
-hoppoulotl,station:avatar:pickup
-redbullry,station:avatar:pickup
-Dr Nox,station:avatar:developer:forceunapproved:pickup
-trueysmir996,station:avatar:pickup
-Rhaska,station:avatar:pickup
-Nightmare_420,station:avatar:pickup
-GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation:pickup
-camthevrgamer17,station:avatar:pickup
-VoidMoonEncore,station:avatar:pickup
-Tycoon11112,station:avatar:pickup
-KuqiKitty,station:avatar:pickup
-~AsieHusky~,station:avatar:pickup
-Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved:pickup
+hoppoulotl,station:avatar
+redbullry,station:avatar
+Dr Nox,station:avatar:developer:forceunapproved
+trueysmir996,station:avatar:forcestation
+Rhaska,station:avatar
+Nightmare_420,station:avatar
+GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
+camthevrgamer17,station:avatar
+VoidMoonEncore,station:avatar
+Tycoon11112,station:avatar
+KuqiKitty,station:avatar
+~AsieHusky~,station:avatar
+Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Gamerbrian74,station:avatar
-Darkdemonwolf46,station:avatar:pickup
-Nova1976_17 2100,station:avatar:pickup
-DesignedDino,station:avatar:pickup
-RisCooker,station:avatar:pickup
-h3oCharles,station:avatar:pickup
-Chiyo Nøir,station:avatar:pickup
-Lordthomas11,station:avatar:pickup
-DivineLiberty,station:avatar:pickup
-frost_64,station:avatar:pickup
-Delta_03,station:avatar:pickup
-քʊքքʏʋʀƈ,station:avatar:pickup
+Darkdemonwolf46,station:avatar
+Nova1976_17 2100,station:avatar
+DesignedDino,station:avatar
+RisCooker,station:avatar
+h3oCharles,station:avatar
+Chiyo Nøir,station:avatar
+Lordthomas11,station:avatar
+DivineLiberty,station:avatar
+frost_64,station:avatar
+Delta_03,station:avatar
+քʊքքʏʋʀƈ,station:avatar
 Codixer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer

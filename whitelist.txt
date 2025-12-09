@@ -51,7 +51,7 @@ GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
 camthevrgamer17,station:avatar
 VoidMoonEncore,station:avatar
 Tycoon11112,station:avatar
-KuqiKitty,station:avatar
+P1X3LP0NYYY,station:avatar
 ~AsieHusky~,station:avatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Gamerbrian74,station:avatar
@@ -67,3 +67,4 @@ frost_64,station:avatar
 Delta_03,station:avatar
 քʊքքʏʋʀƈ,station:avatar
 Codixer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:emtavatar:truavatar:avatar:developer
+AmeliaRoseNZ,station:avatar

@@ -69,3 +69,4 @@ Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forc
 AmeliaRoseNZ,station:avatar
 Missing Spartan,station:avatar
 Delta_03,station:avatar
+PVTGhostly76,station:avatar

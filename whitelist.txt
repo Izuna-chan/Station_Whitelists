@@ -43,7 +43,7 @@ _Dom_12,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:avatar:truavatar:emtavatar
 hoppoulotl,station:avatar
 redbullry,station:avatar
-Dr Nox,station:avatar:developer:forceunapproved
+Dr Nox,developer:forceunapproved
 trueysmir996,forcestation:station:avatar
 Rhaska,station:avatar
 Nightmare_420,station:avatar

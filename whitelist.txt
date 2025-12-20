@@ -1,9 +1,9 @@
-The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:emtavatar:truavatar
+The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar
 Airez1x,station:avatar:truavatar
-Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:emtavatar
-Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:emtavatar:truavatar:avatar
-MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:avatar:truavatar:emtavatar
-MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce
+Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar
+Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar
+MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar
+MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
 ReleaseOfTheID,forcestation:emtavatar:developer:forceunapproved:station:avatar
 Funnky,station:avatar:developer:forceunapproved
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
@@ -15,7 +15,7 @@ VeemoWiimo,station:avatar:emtavatar:truavatar
 akathered,station:avatar
 ShayXavi,station:avatar
 vrprodude25,station:avatar
-NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:emtavatar:truavatar:avatar:developer
+NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
 markush31,station:avatar:forcestation:truavatar:emtavatar
 Kiwi_Chan~,station:avatar:emtavatar
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
@@ -32,7 +32,7 @@ MINNINGking,station:avatar:diplomat
 NiikoTransMtf,station:avatar
 Truck Guy,station:avatar
 Mister Chop,station:diplomat
-LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce
+LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
 Scorch․,station:avatar
 DemonitizedBoi,station:diplomat
 ༒ CΛSPER ༒,station:avatar
@@ -40,7 +40,7 @@ Phill_Almighty,station:avatar
 alex_24_2001,station:avatar
 BeckyOreoDelta,station:avatar:emtavatar
 _Dom_12,station:avatar
-Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:avatar:truavatar:emtavatar
+Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar
 hoppoulotl,station:avatar
 redbullry,station:avatar
 Dr Nox,developer:forceunapproved:station:avatar
@@ -64,7 +64,7 @@ Lordthomas11,station:avatar
 DivineLiberty,station:avatar
 frost_64,station:avatar
 քʊքքʏʋʀƈ,station:avatar
-Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:emtavatar:truavatar:avatar:developer
+Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
 AmeliaRoseNZ,station:avatar
 Missing Spartan,station:avatar
 Delta_03,station:avatar

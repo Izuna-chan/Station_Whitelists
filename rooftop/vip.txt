@@ -11,4 +11,5 @@ Queen_Crystal
 RisCooker
 Sniper_of_white
 VeemoWiimo
+WhimsicalJester
 Xeravax

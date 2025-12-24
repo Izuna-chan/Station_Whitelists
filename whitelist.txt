@@ -10,7 +10,7 @@ Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar:rooftop_vip
 SmolBeannn,station:avatar
-WhimsicalJester,station:avatar:rooftop_vip
+WhimsicalJester,rooftop_vip:station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip
 akathered,station:avatar
 ShayXavi,station:avatar

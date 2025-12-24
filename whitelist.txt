@@ -58,7 +58,7 @@ Gamerbrian74,station:avatar
 Nova1976_17 2100,station:avatar
 DesignedDino,station:avatar
 RisCooker,station:avatar:rooftop_vip
-h3oCharles,station:avatar
+h3oCharles,station:avatar:forcestation
 Chiyo Nøir,station:avatar
 Lordthomas11,station:avatar
 DivineLiberty,rooftop_vip:station:avatar

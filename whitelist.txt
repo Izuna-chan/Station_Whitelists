@@ -72,3 +72,4 @@ PVTGhostly76,station:avatar
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip
 TheGamingExite,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
 Lupin Moon,rooftop_vip
+KingNothing8675,station:avatar

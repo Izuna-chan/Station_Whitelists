@@ -74,5 +74,4 @@ Lupin Moon,rooftop_vip
 KingNothing8675,station:avatar
 NDPlayzVA,station:avatar
 Koda White Wolf,station:avatar
-SquidInkCola,station:avatar
 Chippie_poi,station:avatar

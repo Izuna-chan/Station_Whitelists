@@ -76,4 +76,4 @@ NDPlayzVA,station:avatar
 Koda White Wolf,station:avatar
 Chippie_poi,station:avatar
 SquidInkCola,station:avatar
-GalaxyWolfRed,station:avatar:emtavatar:truavatar
+GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar

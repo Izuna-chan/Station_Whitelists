@@ -59,7 +59,7 @@ RisCooker,station:avatar:rooftop_vip
 h3oCharles,station:avatar:forcestation
 Chiyo Nøir,station:avatar
 Lordthomas11,station:avatar
-DivineLiberty,rooftop_vip:station:avatar
+DivineLiberty,station:rooftop_vip:avatar
 frost_64,station:avatar
 SleepyProoxy,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
@@ -68,7 +68,7 @@ Missing Spartan,station:avatar
 PVTGhostly76,station:avatar
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip
 TheGamingExite,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
-Lupin Moon,rooftop_vip
+Lupin Moon,station:rooftop_vip
 KingNothing8675,station:avatar
 NDPlayzVA,station:avatar
 Koda White Wolf,station:avatar

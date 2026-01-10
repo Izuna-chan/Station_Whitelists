@@ -77,3 +77,4 @@ SquidInkCola,station:avatar
 GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar
 Camerene,station:avatar
+WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar:rooftop_vip

@@ -7,7 +7,6 @@ ReleaseOfTheID,forcestation:emtavatar:developer:forceunapproved:station:avatar
 Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
-WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar:rooftop_vip
 SmolBeannn,station:avatar
 WhimsicalJester,rooftop_vip:station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip

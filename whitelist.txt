@@ -70,7 +70,7 @@ Kiwi_Chan~,station:avatar:emtavatar:rooftop_vip
 trueysmir996,forcestation:station:avatar
 Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:truavatar
-WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar:rooftop_vip
+WhiskeryThrone5,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar:forceavatar
 Airez1x,station:avatar:truavatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Monfire,station:avatar

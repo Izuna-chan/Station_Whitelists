@@ -56,7 +56,6 @@ GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation:rooftop_vip
 vrprodude25,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip
 AmeliaRoseNZ,station:avatar
-PhilippeblaisQC,station:avatar
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip
 WhimsicalJester,station:avatar:rooftop_vip
 Larjanc2,station:avatar
@@ -77,3 +76,4 @@ Monfire,station:avatar
 Dr Nox,station:avatar:developer:forceunapproved
 VennyFoxVR,station:avatar
 -SleepyRuby-,station:avatar
+PhilippeblaisQC,station:avatar

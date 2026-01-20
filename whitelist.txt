@@ -65,7 +65,7 @@ MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 Tycoon11112,station:avatar
 hoppoulotl,station:avatar
 Lordthomas11,station:avatar
-Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar:rooftop_vip
+Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:avatar:truavatar:rooftop_vip
 Kiwi_Chan~,station:avatar:emtavatar:rooftop_vip
 trueysmir996,forcestation:station:avatar
 Scorch․,station:avatar

@@ -43,9 +43,6 @@ ShayXavi,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
 Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 alex_24_2001,station:avatar
-NDPlayzVA,station:avatar
-VoxTecħ,station:avatar
-༒༺гєคקєг༻༒,station:avatar
 Nova1976_17 2100,station:avatar
 RisCooker,station:avatar:rooftop_vip
 Missing Spartan,station:avatar

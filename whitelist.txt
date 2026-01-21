@@ -40,7 +40,7 @@ DemonitizedBoi,rooftop_vipplus
 Rhaska,station:avatar
 ShayXavi,station:avatar
 -spiritwolf-,station:avatar
-NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
+NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
 Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 alex_24_2001,station:avatar
 Nova1976_17 2100,station:avatar

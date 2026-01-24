@@ -73,5 +73,4 @@ Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Monfire,station:avatar
 Dr Nox,station:avatar:developer:forceunapproved
 VennyFoxVR,station:avatar
--SleepyRuby-,station:avatar
 PhilippeblaisQC,station:avatar

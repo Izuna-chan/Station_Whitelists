@@ -58,7 +58,7 @@ Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:f
 WhimsicalJester,station:avatar:rooftop_vip
 Larjanc2,station:avatar
 Chippie_poi,station:avatar
-MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar
+MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar:rooftop_vip
 Tycoon11112,station:avatar
 hoppoulotl,station:avatar
 Lordthomas11,station:avatar

@@ -77,3 +77,4 @@ PhilippeblaisQC,station:avatar
 -SleepyRuby-,station:avatar
 ~XKURAI~,station:avatar
 redbullry,station:avatar
+Veiled Atlas,station:avatar

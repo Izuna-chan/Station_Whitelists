@@ -74,5 +74,5 @@ PhilippeblaisQC,station:avatar
 -SleepyRuby-,station:avatar
 ~XKURAI~,station:avatar
 Veiled Atlas,station:avatar
-blitzleaf,station:avatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
+blitzleaf,station:avatar

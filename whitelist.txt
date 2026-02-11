@@ -8,7 +8,6 @@ MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:for
 Delta_03,station:avatar:developer:forceunapproved:rooftop_vip
 oldfoxy33,station:avatar
 SleepyProoxy,station:avatar
-SquidInkCola,station:avatar
 TheGamingExite,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
 NiikoTransMtf,station:avatar
 KingNothing8675,station:avatar

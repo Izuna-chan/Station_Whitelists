@@ -19,7 +19,6 @@ Koda White Wolf,station:avatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar
 Phill_Almighty,station:avatar:rooftop_vip
 Rustthelion,station:avatar:emtavatar
-SmolBeannn,station:avatar
 akathered,station:avatar
 GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 camthevrgamer17,station:avatar

@@ -75,3 +75,4 @@ polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 blitzleaf,station:avatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar
+Maxvr768,station:avatar

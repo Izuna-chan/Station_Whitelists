@@ -24,7 +24,6 @@ akathered,station:avatar
 GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 camthevrgamer17,station:avatar
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar
-Camerene,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 markush31,station:avatar:forcestation:truavatar:emtavatar
@@ -75,3 +74,4 @@ PhilippeblaisQC,station:avatar
 Veiled Atlas,station:avatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 blitzleaf,station:avatar
+Camerene,station:avatar

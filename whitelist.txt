@@ -78,3 +78,4 @@ Maxvr768,station:avatar
 Marshmallellow,station:avatar
 SmolBeannn,station:avatar
 MeeshaLeeToki,station:avatar
+STVOSO,station:avatar

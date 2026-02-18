@@ -71,7 +71,7 @@ PhilippeblaisQC,station:avatar
 ~XKURAI~,station:avatar
 Veiled Atlas,station:avatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
-blitzleaf,station:avatar
+blitzleaf,station:avatar:emtavatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar
 Maxvr768,station:avatar

@@ -33,7 +33,6 @@ WickedFlyGirl,station:rooftop_vip
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 frost_64,station:avatar
 DemonitizedBoi,rooftop_vipplus
-Rhaska,station:avatar
 ShayXavi,station:avatar
 -spiritwolf-,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
@@ -46,14 +45,13 @@ P1X3LP0NYYY,station:avatar
 ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
 fluff․-․,station:avatar
 _Dom_12,station:avatar
-GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation:rooftop_vip
+GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
 vrprodude25,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip
-AmeliaRoseNZ,station:avatar
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip
 Larjanc2,station:avatar
 Chippie_poi,station:avatar
-MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar:rooftop_vip
+MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar
 Tycoon11112,station:avatar
 hoppoulotl,station:avatar
 Lordthomas11,station:avatar
@@ -82,3 +80,4 @@ STVOSO,station:avatar
 ༺༒ŔʊŝᴋBė₳ʂƬ༒༻,station:avatar
 WinterBlackout,station:avatar
 UwU-Stig,station:avatar
+-ㄖ几ㄚ乂-,station:avatar

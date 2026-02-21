@@ -72,7 +72,6 @@ polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 blitzleaf,station:avatar:emtavatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar
-Maxvr768,station:avatar
 Marshmallellow,station:avatar
 SmolBeannn,station:avatar
 MeeshaLeeToki,station:avatar

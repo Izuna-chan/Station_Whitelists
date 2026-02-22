@@ -39,7 +39,7 @@ NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:f
 Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 alex_24_2001,station:avatar
 Nova1976_17 2100,station:avatar
-RisCooker,station:avatar:rooftop_vip
+RisCooker,rooftop_vip
 Missing Spartan,station:avatar
 P1X3LP0NYYY,station:avatar
 ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved

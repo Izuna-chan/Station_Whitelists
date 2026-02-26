@@ -45,7 +45,7 @@ P1X3LP0NYYY,station:avatar
 ReleaseOfTheID,forcestation:station:avatar:emtavatar:developer:forceunapproved
 fluff․-․,station:avatar
 _Dom_12,station:avatar
-GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
+GalacticAlyssa,emtavatar:truavatar:forcestation:avatar
 vrprodude25,station:avatar
 VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip

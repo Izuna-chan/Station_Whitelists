@@ -29,7 +29,7 @@ markush31,station:avatar:forcestation:truavatar:emtavatar
 BeckyOreoDelta,station:avatar:emtavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
-WickedFlyGirl,station:rooftop_vip
+WickedFlyGirl,station:avatar:rooftop_vip
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 frost_64,station:avatar
 DemonitizedBoi,rooftop_vipplus

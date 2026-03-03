@@ -55,7 +55,7 @@ Tycoon11112,station:avatar
 hoppoulotl,station:avatar
 Lordthomas11,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:avatar:truavatar:rooftop_vip
--千ㄖ尸丂ㄚ-,station:avatar:emtavatar:rooftop_vip
+-千ㄖ尸丂ㄚ-,station:avatar:emtavatar
 trueysmir996,forcestation:station:avatar
 Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar

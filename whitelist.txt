@@ -82,3 +82,4 @@ Herr ༒ Alpennau,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
 Ellie0601,station:avatar
 WinterBlackout,station:avatar
+Northkuzikuzu,station:avatar

@@ -82,3 +82,4 @@ Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forc
 Ellie0601,station:avatar
 WinterBlackout,station:avatar
 Northkuzikuzu,station:avatar
+MrSonic38,station:avatar

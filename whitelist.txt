@@ -3,7 +3,6 @@ DesignedDino,station:avatar
 Byteblade_Jest,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 DivineLiberty,station:avatar:rooftop_vip
-h3oCharles,rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:rooftop_vip
 Delta_03,station:avatar:developer:forceunapproved
 oldfoxy33,station:avatar
@@ -77,7 +76,7 @@ STVOSO,station:avatar
 ༺༒ŔʊŝᴋBė₳ʂƬ༒༻,station:avatar
 UwU-Stig,station:avatar
 -ㄖ几ㄚ乂-,station:avatar
-Herr ༒ Alpennau,station:avatar
+༒HERR-SCHMIDT༒,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
 Ellie0601,station:avatar
 WinterBlackout,station:avatar

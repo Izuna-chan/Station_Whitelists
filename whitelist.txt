@@ -23,7 +23,6 @@ GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 camthevrgamer17,station:avatar
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
-markush31,station:avatar:forcestation:truavatar:emtavatar
 BeckyOreoDelta,station:avatar:emtavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer

@@ -65,7 +65,7 @@ philippeblais,station:avatar
 Mr༒VÁLDÉZ,station:avatar
 Veiled Atlas,station:avatar
 polarsaucer,station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
-blitzleaf,station:avatar:emtavatar
+blitzleaf,forcestation:station:avatar:emtavatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar
 Marshmallellow,station:avatar

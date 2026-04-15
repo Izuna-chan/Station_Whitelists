@@ -75,7 +75,7 @@ ImSteveO,station:avatar
 ༺༒ŔʊŝᴋBė₳ʂƬ༒༻,station:avatar
 UwU-Stig,station:avatar
 -ㄖ几ㄚ乂-,station:avatar
-༒HERR-SCHMIDT༒,station:avatar
+ValuriaReikholt,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer:rooftop_vip
 Ellie0601,station:avatar
 Northkuzikuzu,station:avatar
@@ -89,3 +89,4 @@ markush31,station:avatar:forcestation:truavatar:emtavatar
 Keir925,station:avatar
 LyraPiranhaVA,station:avatar
 MrSonic38,station:avatar
+Fastlightning,station:avatar

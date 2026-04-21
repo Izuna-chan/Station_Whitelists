@@ -26,7 +26,7 @@ Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 BeckyOreoDelta,station:avatar:emtavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer
-WickedFlyGirl,station:avatar:rooftop_vip
+WickedWesker,station:avatar:rooftop_vip
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 frost_64,station:avatar
 DemonitizedBoi,rooftop_vipplus

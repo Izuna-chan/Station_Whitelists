@@ -48,7 +48,6 @@ Larjanc2,station:avatar
 Chippie_poi,station:avatar
 MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:avatar:truavatar:emtavatar
 Tycoon11112,station:avatar
-hoppoulotl,station:avatar
 Lordthomas11,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:avatar:truavatar:rooftop_vip
 -千ㄖ尸丂ㄚ-,station:avatar:emtavatar

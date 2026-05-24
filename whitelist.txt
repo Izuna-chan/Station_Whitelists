@@ -92,3 +92,4 @@ MR- JUPITER,station:avatar
 ~XKURAI~,station:avatar
 JadeAisha,station:avatar
 BurnTheWitch,station:avatar
+Scrafteur,station:avatar

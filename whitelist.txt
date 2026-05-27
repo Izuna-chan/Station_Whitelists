@@ -30,7 +30,6 @@ LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 WickedWesker,station:avatar:rooftop_vip
 ༒sᴇʀᴇɴɪᴛʏ༒,station:avatar
 frost_64,station:avatar
-DemonitizedBoi,rooftop_vipplus
 ShayXavi,station:avatar
 -spiritwolf-,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer

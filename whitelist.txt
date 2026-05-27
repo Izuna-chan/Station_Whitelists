@@ -2,6 +2,7 @@ Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 DesignedDino,station:avatar
 Byteblade_Jest,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
+Narratorz,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 DivineLiberty,station:avatar:rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:rooftop_vip
 Delta_03,station:avatar:developer:forceunapproved
@@ -35,7 +36,7 @@ ShayXavi,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
 Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 Nova1976_17 2100,station:avatar
-RisCooker,station:avatar:rooftop_vip
+RisCooker,forcestation:station:avatar:rooftop_vip
 Missing Spartan,station:avatar
 ReleaseOfTheID,forcestation:pickup:emtavatar:developer:forceunapproved
 fluff․-․,station:avatar

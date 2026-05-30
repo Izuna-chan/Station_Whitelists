@@ -37,12 +37,12 @@ Funnky,station:avatar:developer:forceunapproved:rooftop_vip
 Nova1976_17 2100,station:avatar
 RisCooker,forcestation:station:avatar:rooftop_vip
 Missing Spartan,station:avatar
-ReleaseOfTheID,forcestation:pickup:emtavatar:developer:forceunapproved
+ReleaseOfTheID,forcestation:pickup:station:avatar:emtavatar:developer:forceunapproved
 fluff․-․,station:avatar
 _Dom_12,station:avatar
 GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation
 vrprodude25,station:avatar
-VeemoWiimo,pickup:emtavatar:truavatar:rooftop_vip
+VeemoWiimo,pickup:station:avatar:emtavatar:truavatar:rooftop_vip
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:developer:rooftop_vip
 Larjanc2,station:avatar
 Chippie_poi,station:avatar
@@ -51,10 +51,10 @@ Tycoon11112,station:avatar
 Lordthomas11,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:avatar:truavatar:rooftop_vip
 -千ㄖ尸丂ㄚ-,station:avatar:emtavatar
-trueysmir996,forcestation:pickup
+trueysmir996,forcestation:pickup:station:avatar
 Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
-Airez1x,pickup:truavatar
+Airez1x,pickup:station:avatar:truavatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Monfire,station:avatar
 Dr Nox,station:avatar
@@ -62,7 +62,7 @@ PhilippeblaisQC,station:avatar
 philippeblais,station:avatar
 -SleepyRuby-,station:avatar
 Veiled Atlas,station:avatar
-polarsaucer,pickup:emtavatar:truavatar:forcetruavatar:forceunapproved
+polarsaucer,pickup:station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 blitzleaf,forcestation:station:avatar:emtavatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar

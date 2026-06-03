@@ -20,7 +20,6 @@ Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 Phill_Almighty,station:avatar:rooftop_vip
 Rustthelion,station:avatar:emtavatar
 akathered,station:avatar
-GalaxyWolfRed,station:avatar:emtavatar:truavatar:forcetruavatar
 camthevrgamer17,station:avatar
 The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar

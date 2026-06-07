@@ -77,7 +77,6 @@ Ellie0601,station:avatar
 Northkuzikuzu,station:avatar
 Robin004,station:avatar
 WinterBlackout,station:avatar
-alex_24_2001,station:avatar
 Víper6805,station:avatar
 『AVILON』,station:avatar
 markush31,station:avatar:forcestation:truavatar:emtavatar
@@ -86,7 +85,7 @@ LyraPiranhaVA,station:avatar
 MrSonic38,station:avatar
 will․723253,station:avatar
 MR- JUPITER,station:avatar:emtavatar
-~XKURAI~,station:avatar
+¥~AERO~¥,station:avatar
 JadeAisha,station:avatar
 BurnTheWitch,station:avatar
 Scrafteur,station:avatar
@@ -94,3 +93,4 @@ Fastlightning,station:avatar
 ozan1,station:avatar
 Yutomi,station:avatar
 ElActioneer,station:avatar
+alex_24_2001,station:avatar

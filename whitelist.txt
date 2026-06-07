@@ -31,7 +31,7 @@ frost_64,station:avatar
 ShayXavi,station:avatar
 -spiritwolf-,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar:truavatar:avatar:developer
-Funnky,station:avatar:developer:forceunapproved:rooftop_vip
+Funnky,station:avatar:developer:forceunapproved
 Nova1976_17 2100,station:avatar
 RisCooker,forcestation:station:avatar:rooftop_vip
 Missing Spartan,station:avatar

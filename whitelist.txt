@@ -55,7 +55,7 @@ Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
 Airez1x,pickup:station:avatar:truavatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Monfire,station:avatar
-Dr Nox,station:avatar
+Dr Nox,forcestation:station:avatar
 PhilippeblaisQC,station:avatar
 philippeblais,station:avatar
 -SleepyRuby-,station:avatar
@@ -84,10 +84,10 @@ Keir925,station:avatar
 LyraPiranhaVA,station:avatar
 MrSonic38,station:avatar
 will․723253,station:avatar
-MR- JUPITER,station:avatar:emtavatar
-¥~AERO~¥,station:avatar
+GENDER-BENDER,station:avatar:emtavatar
+~XKURAI~,station:avatar
 JadeAisha,station:avatar
-BurnTheWitch,station:avatar
+BurnTheWitch,forcestation:station:avatar
 Scrafteur,station:avatar
 Fastlightning,station:avatar
 ozan1,station:avatar

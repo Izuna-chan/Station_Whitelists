@@ -76,7 +76,6 @@ Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forc
 Ellie0601,station:avatar
 Northkuzikuzu,station:avatar
 Robin004,station:avatar
-WinterBlackout,station:avatar
 Víper6805,station:avatar
 『AVILON』,station:avatar
 markush31,station:avatar:forcestation:truavatar:emtavatar

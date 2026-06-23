@@ -1,6 +1,6 @@
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar
 DesignedDino,station:avatar
-Byteblade_Jest,station:avatar
+MagneRebel,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 Narratorz,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
 DivineLiberty,station:avatar:rooftop_vip
@@ -92,8 +92,8 @@ Fastlightning,station:avatar
 ozan1,station:avatar
 Yutomi,station:avatar
 alex_24_2001,station:avatar
-Vampxx_wrld_1,station:avatar
 KingJayZik 7465,station:avatar
 LividBean56,station:avatar
 ElActioneer,station:avatar
 Toku_Fella,station:avatar
+Vampxx_wrld_1,station:avatar

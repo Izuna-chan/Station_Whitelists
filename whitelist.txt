@@ -60,7 +60,7 @@ PhilippeblaisQC,station:avatar
 philippeblais,station:avatar
 -SleepyRuby-,station:avatar
 Veiled Atlas,station:avatar
-polarsaucer,pickup:station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved:rooftop_vip
+polarsaucer,pickup:station:avatar:emtavatar:truavatar:forcetruavatar:forceunapproved
 blitzleaf,forcestation:station:avatar:emtavatar
 Camerene,station:avatar
 VennyFoxVR,station:avatar

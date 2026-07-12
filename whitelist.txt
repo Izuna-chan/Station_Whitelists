@@ -1,8 +1,8 @@
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:emtavatar
 DesignedDino,station:avatar
 MagneRebel,station:avatar
-Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
-Narratorz,forcestation:station:avatar:emtavatar:forceemtavatar:forceavatar
+Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar
+Narratorz,forcestation:station:avatar:emtavatar:forceemtavatar
 DivineLiberty,station:avatar:rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_staff:rooftop_announce:rooftop_bouncer:rooftop_vip
 Delta_03,station:avatar:developer:forceunapproved

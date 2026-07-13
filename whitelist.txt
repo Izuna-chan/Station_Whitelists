@@ -76,7 +76,6 @@ Víper6805,station:avatar
 『AVILON』,station:avatar
 markush31,station:avatar:forcestation:truavatar:emtavatar
 Keir925,station:avatar
-LyraPiranhaVA,station:avatar
 MrSonic38,station:avatar
 GENDER-BENDER,forcestation:station:avatar:emtavatar
 ༒MÃŘŠĦÃŁ༒,station:avatar

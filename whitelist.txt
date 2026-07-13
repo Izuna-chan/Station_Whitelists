@@ -94,4 +94,4 @@ Dragoblaze254,station:avatar
 ValentineRose20,station:avatar
 trueysmir996,forcestation:pickup:station:avatar:forceavatar:rooftop_staff
 dj_sureli,station:avatar
-markush31,station:avatar
+markush31,station:avatar:forcestation:truavatar:emtavatar

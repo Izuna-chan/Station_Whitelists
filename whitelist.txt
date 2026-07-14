@@ -44,7 +44,6 @@ VeemoWiimo,pickup:station:avatar:emtavatar:truavatar:rooftop_vip
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:developer:rooftop_vip:rooftop_staff
 Larjanc2,station:avatar
 Chippie_poi,station:avatar
-MaxxNchez8910,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus
 Tycoon11112,station:avatar
 Lordthomas11,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:avatar:truavatar:rooftop_vip:rooftop_staff

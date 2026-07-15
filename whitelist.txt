@@ -29,7 +29,6 @@ LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup
 WickedWesker,station:avatar:rooftop_vip
 frost_64,station:avatar
 ShayXavi,station:avatar
--spiritwolf-,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_staff
 Funnky,station:avatar:developer:forceunapproved
 Nova1976_17 2100,station:avatar

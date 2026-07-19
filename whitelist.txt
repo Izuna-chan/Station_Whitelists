@@ -26,7 +26,7 @@ Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 BeckyOreoDelta,station:avatar:emtavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:rooftop_staff
-WickedWesker,station:avatar:rooftop_vip
+֍Wicked֍,station:avatar:rooftop_vip
 frost_64,station:avatar
 ShayXavi,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_staff
@@ -48,7 +48,7 @@ Lordthomas11,station:avatar
 Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:avatar:truavatar:rooftop_vip:rooftop_staff
 Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
-Airez1x,pickup:station:avatar:truavatar:rooftop_vip
+Airez1x,pickup:station:avatar:truavatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
 Monfire,station:avatar
 Dr Nox,forcestation:station:avatar
@@ -83,7 +83,6 @@ Fastlightning,station:avatar
 ozan1,station:avatar
 Yutomi,station:avatar
 Vampxx_wrld_1,station:avatar:forcestation:truavatar:emtavatar
-HyphenRain,station:avatar
 Novaabysslilly,station:avatar
 will․723253,station:avatar
 Dragoblaze25,station:avatar
@@ -95,3 +94,4 @@ markush31,station:avatar:forcestation:truavatar:emtavatar
 alex_24_2001,station:avatar
 Gardn_of_hope,station:avatar
 Tomoko2252,station:avatar
+HyphenRain,station:avatar

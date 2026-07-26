@@ -2,7 +2,6 @@ Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:picku
 DesignedDino,station:avatar
 MagneRebel,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar
-Narratorz,forcestation:station:avatar:emtavatar:forceemtavatar
 DivineLiberty,station:avatar:rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:rooftop_vip:rooftop_staff
 Delta_03,station:avatar:developer:forceunapproved

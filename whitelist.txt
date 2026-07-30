@@ -96,3 +96,4 @@ Monfire,station:avatar
 ElActioneer,station:avatar
 Toku_Fella,station:avatar
 Miss-raven,station:avatar
+Vegas_VRC,station:avatar

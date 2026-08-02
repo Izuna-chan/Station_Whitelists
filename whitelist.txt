@@ -87,7 +87,7 @@ Dragoblaze254,station:avatar
 ValentineRose20,station:avatar
 trueysmir996,forcestation:pickup:station:avatar:truavatar:forceavatar:rooftop_staff
 dj_sureli,station:avatar
-markush31,station:avatar:forcestation:truavatar:emtavatar
+markush31,station:avatar:truavatar:forcestation:emtavatar
 alex_24_2001,station:avatar
 Tomoko2252,station:avatar
 HyphenRain,station:avatar

@@ -63,7 +63,7 @@ MeeshaLeeToki,station:avatar
 ImSteveO,station:avatar
 UwU-Stig,station:avatar
 -ㄖ几ㄚ乂-,station:avatar:forcestation:truavatar:emtavatar
-Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:station:avatar:emtavatar:truavatar:developer:rooftop_vip:rooftop_staff
+Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff
 Northkuzikuzu,station:avatar
 Robin004,station:avatar
 Víper6805,station:avatar

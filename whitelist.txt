@@ -33,7 +33,7 @@ Funnky,station:avatar:developer:forceunapproved
 Nova1976_17 2100,station:avatar
 RisCooker,forcestation:station:avatar:rooftop_vip
 Missing Spartan,station:avatar
-ReleaseOfTheID,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:station:rooftop_vip:developer:rooftop_staff
+ReleaseOfTheID,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:developer:rooftop_staff
 fluff․-․,station:avatar
 _Dom_12,station:avatar
 GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation

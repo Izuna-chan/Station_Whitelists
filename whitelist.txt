@@ -6,7 +6,7 @@ DivineLiberty,station:avatar:rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:rooftop_vip:rooftop_staff
 Delta_03,station:avatar:developer:forceunapproved
 oldfoxy33,station:avatar
-SleepyProoxy,station:avatar
+SleepyLuLuu,station:avatar
 TheGamingExite,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus
 NiikoTransMtf,station:avatar
 KingNothing8675,station:avatar
@@ -63,7 +63,6 @@ MeeshaLeeToki,station:avatar
 ImSteveO,station:avatar
 UwU-Stig,station:avatar
 -ㄖ几ㄚ乂-,station:avatar:forcestation:truavatar:emtavatar
-Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff
 Northkuzikuzu,station:avatar
 Robin004,station:avatar
 Víper6805,station:avatar

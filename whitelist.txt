@@ -83,7 +83,7 @@ will․723253,station:avatar
 Dragoblaze25,station:avatar
 Dragoblaze254,station:avatar
 ValentineRose20,station:avatar
-trueysmir996,forcestation:truavatar:forceavatar:rooftop_staff
+trueysmir996,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:truavatar:rooftop_staff
 dj_sureli,station:avatar
 markush31,station:avatar:truavatar:forcestation:emtavatar
 Autisti©_alex,station:avatar

@@ -49,7 +49,7 @@ Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
 Airez1x,pickup:station:avatar:truavatar
 Chibi1331,station:avatar:truavatar:forcetruavatar:developer:forceunapproved
-Dr Nox,forcestation:station:avatar:truavatar
+Dr Nox,forcestation:station:avatar:truavatar:rooftop_vipplus
 PhilippeblaisQC,station:avatar
 philippeblais,station:avatar
 -SleepyRuby-,station:avatar

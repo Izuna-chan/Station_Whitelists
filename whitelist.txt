@@ -92,7 +92,7 @@ HyphenRain,station:avatar
 Gardn_of_hope,station:avatar
 Monfire,station:avatar
 Miss-raven,station:avatar
-Vegas_VRC,station:avatar
+Vegas_VRC,station:avatar:forcestation:truavatar:emtavatar
 Darkdemonwolf46,station:avatar
 Lennonade,station:avatar
 ༺༒ŔʊŝᴋBė₳ʂƬ༒༻,station:avatar

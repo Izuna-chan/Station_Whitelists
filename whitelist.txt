@@ -40,7 +40,7 @@ GalacticAlyssa,station:avatar:emtavatar:truavatar
 vrprodude25,station:avatar
 VeemoWiimo,pickup:station:avatar:emtavatar:truavatar:rooftop_vip
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:developer:rooftop_vip:rooftop_staff
-Larjanc2,station:avatar
+Larajanc,station:avatar
 Chippie_poi,station:avatar
 Tycoon11112,station:avatar
 Lordthomas11,station:avatar
@@ -87,7 +87,6 @@ dj_sureli,station:avatar
 markush31,station:avatar:truavatar:forcestation:emtavatar
 Autisti©_alex,station:avatar
 Tomoko2252,station:avatar
-HyphenRain,station:avatar
 Gardn_of_hope,station:avatar
 Monfire,station:avatar
 Miss-raven,station:avatar

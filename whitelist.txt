@@ -97,3 +97,4 @@ Frye215,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff
 Phoenix's scout,forcestation:station:avatar
 HyphenRain,station:avatar
+Lennonade,station:avatar

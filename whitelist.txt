@@ -100,3 +100,4 @@ HyphenRain,station:avatar
 Lennonade,station:avatar
 babdb3c2214749fc92bbedaeb49f3733,station:avatar
 WhimsicalJester,station:avatar
+FluffalEevee,station:avatar

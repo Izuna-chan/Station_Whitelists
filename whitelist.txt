@@ -98,7 +98,6 @@ Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forc
 Phoenix's scout,forcestation:station:avatar
 HyphenRain,station:avatar
 Lennonade,station:avatar
-babdb3c2214749fc92bbedaeb49f3733,station:avatar
 WhimsicalJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar

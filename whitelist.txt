@@ -73,7 +73,6 @@ Lightning_Sana,station:avatar
 ozan1,station:avatar
 Yutomi,station:avatar
 Vampxx_wrld_1,station:avatar:forcestation:truavatar:emtavatar
-Novaabysslilly,station:avatar
 Voidlilly,station:avatar
 will․723253,station:avatar:emtavatar
 Dragoblaze25,station:avatar

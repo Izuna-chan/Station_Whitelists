@@ -37,7 +37,7 @@ fluff․-․,station:avatar
 _Dom_12,station:avatar
 GalacticAlyssa,station:avatar:emtavatar:truavatar:forcestation:forceavatar
 vrprodude25,station:avatar
-VeemoWiimo,pickup:station:avatar:emtavatar:truavatar:rooftop_vip
+VeemoWiimo,station:avatar:emtavatar:truavatar:rooftop_vip
 Izuna-chan,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:developer:rooftop_vip:rooftop_staff
 Larajanc,station:avatar
 Chippie_poi,station:avatar

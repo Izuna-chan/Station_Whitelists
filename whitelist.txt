@@ -8,7 +8,6 @@ oldfoxy33,station:avatar
 SleepyLuLuu,station:avatar
 TheGamingExite,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus
 NiikoTransMtf,station:avatar
-KingNothing8675,station:avatar
 Amaya_VR,forcestation:station:avatar:emtavatar:truavatar
 MINNINGking,station:avatar:rooftop_vipplus
 Mister Chop,rooftop_vipplus
@@ -105,3 +104,4 @@ DovahkiinXP,station:avatar
 BarryWheatlyIII,station:avatar
 ajsfpierre2483,station:avatar
 Topshelfguy,station:avatar
+KingNothing8675,station:avatar

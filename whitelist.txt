@@ -29,7 +29,7 @@ ShayXavi,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_staff
 Funnky,station:avatar:developer:forceunapproved
 Nova1976_17 2100,station:avatar
-RisCooker,forcestation:pickup:station:avatar:rooftop_vip
+RisCooker,forcestation:pickup:station:avatar:rooftop_vip:rooftop_staff
 Missing Spartan,station:avatar
 ReleaseOfTheID,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:developer:rooftop_staff
 fluff․-․,station:avatar

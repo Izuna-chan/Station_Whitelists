@@ -94,7 +94,7 @@ Lennonade,station:avatar
 WhimsicalJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar
-FluffalEevee,station:avatar:emtavatar
+FluffalEevee,emtavatar
 Lè Dinosaur~,station:avatar
 ᴍᴜᴛɪɴʏ,station:avatar
 MrSonic38,station:avatar

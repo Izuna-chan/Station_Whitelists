@@ -53,7 +53,6 @@ philippeblais,station:avatar
 -SleepyRuby-,station:avatar
 Veiled Atlas,station:avatar
 blitzleaf,forcestation:station:avatar:emtavatar
-Camerene,station:avatar
 VennyFoxVR,station:avatar
 Marshmallellow,station:avatar
 SmolBeannn,station:avatar

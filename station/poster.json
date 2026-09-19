@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-09-19T17:16:19.147Z",
+  "version": 13,
+  "updatedAt": "2026-09-19T17:16:59.673Z",
   "posters": [
     {
       "slot": 0,
@@ -31,7 +31,8 @@
       "enabled": true,
       "title": "LAB",
       "id": "lab",
-      "file": "FRAME_LAB.jpg"
+      "file": "FRAME_LAB.jpg",
+      "groupId": "grp_415e8d11-bb5a-49bb-af7e-eacd1b729429"
     },
     {
       "slot": 4,

@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-09-19T16:29:44.436Z",
+  "version": 5,
+  "updatedAt": "2026-09-19T16:29:47.410Z",
   "posters": [
     {
       "slot": 0,
@@ -32,7 +32,7 @@
     },
     {
       "slot": 4,
-      "enabled": false,
+      "enabled": true,
       "title": "Slot 4",
       "id": "slot-4",
       "file": "FRAME_MPS.jpg"

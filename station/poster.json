@@ -1,6 +1,6 @@
 {
-  "version": 11,
-  "updatedAt": "2026-09-19T17:16:03.521Z",
+  "version": 12,
+  "updatedAt": "2026-09-19T17:16:19.147Z",
   "posters": [
     {
       "slot": 0,
@@ -23,7 +23,8 @@
       "enabled": true,
       "title": "KUS",
       "id": "kus",
-      "file": "FRAME_KUS.jpg"
+      "file": "FRAME_KUS.jpg",
+      "groupId": "grp_d5766e7b-c032-4585-bc68-de09292386d9"
     },
     {
       "slot": 3,

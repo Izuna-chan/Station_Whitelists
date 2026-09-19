@@ -1,13 +1,14 @@
 {
-  "version": 8,
-  "updatedAt": "2026-09-19T16:30:24.089Z",
+  "version": 9,
+  "updatedAt": "2026-09-19T16:31:24.089Z",
   "posters": [
     {
       "slot": 0,
       "enabled": true,
       "title": "Cobalt",
       "id": "cobalt",
-      "file": "FRAME_COBALT.jpg"
+      "file": "FRAME_COBALT.jpg",
+      "groupId": "grp_83b00147-8ceb-4763-82fe-a8d730eb3717"
     },
     {
       "slot": 1,

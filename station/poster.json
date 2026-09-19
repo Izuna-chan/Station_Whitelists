@@ -1,54 +1,54 @@
 {
-  "version": 7,
-  "updatedAt": "2026-09-19T16:29:53.935Z",
+  "version": 8,
+  "updatedAt": "2026-09-19T16:30:24.089Z",
   "posters": [
     {
       "slot": 0,
       "enabled": true,
-      "title": "Slot 0",
-      "id": "slot-0",
+      "title": "Cobalt",
+      "id": "cobalt",
       "file": "FRAME_COBALT.jpg"
     },
     {
       "slot": 1,
       "enabled": true,
-      "title": "Slot 1",
-      "id": "slot-1",
+      "title": "Hoppu",
+      "id": "hoppu",
       "file": "FRAME_HOPPU.jpg"
     },
     {
       "slot": 2,
       "enabled": true,
-      "title": "Slot 2",
-      "id": "slot-2",
+      "title": "KUS",
+      "id": "kus",
       "file": "FRAME_KUS.jpg"
     },
     {
       "slot": 3,
       "enabled": true,
-      "title": "Slot 3",
-      "id": "slot-3",
+      "title": "LAB",
+      "id": "lab",
       "file": "FRAME_LAB.jpg"
     },
     {
       "slot": 4,
       "enabled": true,
-      "title": "Slot 4",
-      "id": "slot-4",
+      "title": "MPS",
+      "id": "mps",
       "file": "FRAME_MPS.jpg"
     },
     {
       "slot": 5,
       "enabled": true,
-      "title": "Slot 5",
-      "id": "slot-5",
+      "title": "PrideVR",
+      "id": "pridevr",
       "file": "FRAME_PRIDEVR.jpg"
     },
     {
       "slot": 6,
       "enabled": true,
-      "title": "Slot 6",
-      "id": "slot-6",
+      "title": "PSI",
+      "id": "psi",
       "file": "FRAME_PSI.jpg"
     }
   ]

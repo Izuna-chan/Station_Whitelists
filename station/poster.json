@@ -1,10 +1,10 @@
 {
-  "version": 0,
-  "updatedAt": "2026-09-19T15:24:45.801Z",
+  "version": 1,
+  "updatedAt": "2026-09-19T16:29:32.946Z",
   "posters": [
     {
       "slot": 0,
-      "enabled": false,
+      "enabled": true,
       "title": "Slot 0",
       "id": "slot-0",
       "file": "FRAME_COBALT.jpg"

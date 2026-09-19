@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updatedAt": "2026-09-19T17:17:18.571Z",
+  "version": 15,
+  "updatedAt": "2026-09-19T17:17:37.283Z",
   "posters": [
     {
       "slot": 0,
@@ -47,7 +47,8 @@
       "enabled": true,
       "title": "PrideVR",
       "id": "pridevr",
-      "file": "FRAME_PRIDEVR.jpg"
+      "file": "FRAME_PRIDEVR.jpg",
+      "groupId": "grp_548b8449-2fc6-48b8-bbdf-b380401d9b66"
     },
     {
       "slot": 6,

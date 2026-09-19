@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-09-19T16:29:40.553Z",
+  "version": 4,
+  "updatedAt": "2026-09-19T16:29:44.436Z",
   "posters": [
     {
       "slot": 0,
@@ -25,7 +25,7 @@
     },
     {
       "slot": 3,
-      "enabled": false,
+      "enabled": true,
       "title": "Slot 3",
       "id": "slot-3",
       "file": "FRAME_LAB.jpg"

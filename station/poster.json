@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updatedAt": "2026-09-19T16:29:47.410Z",
+  "version": 6,
+  "updatedAt": "2026-09-19T16:29:50.801Z",
   "posters": [
     {
       "slot": 0,
@@ -39,7 +39,7 @@
     },
     {
       "slot": 5,
-      "enabled": false,
+      "enabled": true,
       "title": "Slot 5",
       "id": "slot-5",
       "file": "FRAME_PRIDEVR.jpg"

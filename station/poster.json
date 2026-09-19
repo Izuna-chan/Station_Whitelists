@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-09-19T17:17:37.283Z",
+  "version": 16,
+  "updatedAt": "2026-09-19T17:17:55.206Z",
   "posters": [
     {
       "slot": 0,
@@ -55,7 +55,8 @@
       "enabled": true,
       "title": "PSI",
       "id": "psi",
-      "file": "FRAME_PSI.jpg"
+      "file": "FRAME_PSI.jpg",
+      "groupId": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07"
     }
   ]
 }

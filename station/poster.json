@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "updatedAt": "2026-09-19T16:29:50.801Z",
+  "version": 7,
+  "updatedAt": "2026-09-19T16:29:53.935Z",
   "posters": [
     {
       "slot": 0,
@@ -46,7 +46,7 @@
     },
     {
       "slot": 6,
-      "enabled": false,
+      "enabled": true,
       "title": "Slot 6",
       "id": "slot-6",
       "file": "FRAME_PSI.jpg"

@@ -1,6 +1,6 @@
 Roger_FireFox,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:rooftop_staff
 DesignedDino,station:avatar
-MagneRebel,station:avatar
+MorningKing,station:avatar
 Mooshrooum,forcestation:station:avatar:emtavatar:forceemtavatar
 DivineLiberty,station:avatar:rooftop_vip
 MUDDKING,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:rooftop_vip:rooftop_staff
@@ -101,7 +101,6 @@ MrSonic38,station:avatar
 DovahkiinXP,station:avatar
 ~MARSHAL~16,station:avatar
 BarryWheatlyIII,station:avatar
-ajsfpierre2483,station:avatar
 Topshelfguy,station:avatar
 KingNothing8675,station:avatar
 vylant,station:avatar

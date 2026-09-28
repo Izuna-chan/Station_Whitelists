@@ -55,7 +55,6 @@ Veiled Atlas,station:avatar
 blitzleaf,forcestation:station:avatar:emtavatar
 HoneyBonVR,station:avatar
 Marshmallellow,station:avatar
-SmolBeannn,station:avatar
 MeeshaLeeToki,station:avatar
 ImSteveO,station:avatar
 UwU-Stig,station:avatar
@@ -105,3 +104,4 @@ KingNothing8675,station:avatar
 vylant,station:avatar
 Duran․,station:avatar
 ajsfpierre2483,station:avatar
+SmolBeannn,station:avatar

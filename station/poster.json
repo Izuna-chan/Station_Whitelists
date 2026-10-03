@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "updatedAt": "2026-10-03T18:05:58.011Z",
+  "version": 25,
+  "updatedAt": "2026-10-03T18:06:01.401Z",
   "posters": [
     {
       "slot": 0,
@@ -36,7 +36,7 @@
     },
     {
       "slot": 4,
-      "enabled": false,
+      "enabled": true,
       "title": "MPS",
       "id": "mps",
       "file": "FRAME_MPS.jpg",

@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-10-03T18:05:47.429Z",
+  "version": 22,
+  "updatedAt": "2026-10-03T18:05:51.464Z",
   "posters": [
     {
       "slot": 0,
@@ -12,7 +12,7 @@
     },
     {
       "slot": 1,
-      "enabled": false,
+      "enabled": true,
       "title": "Hoppu",
       "id": "hoppu",
       "file": "FRAME_HOPPU.jpg",

@@ -82,7 +82,6 @@ Tomoko2252,station:avatar
 Gardn_of_hope,station:avatar
 Monfire,station:avatar
 Miss-raven,station:avatar
-Vegas_VRC,station:avatar:forcestation:truavatar:emtavatar
 Darkdemonwolf46,station:avatar
 Frye215,station:avatar
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff

@@ -62,7 +62,7 @@ Robin004,station:avatar
 Víper6805,station:avatar
 『AVILON』,station:avatar
 Keir925,station:avatar
-M̶R̶༆O̶R̶I̶O̶N̶,forcestation:station:avatar:emtavatar:truavatar
+M̶R̶༒O̶R̶I̶O̶N̶,forcestation:station:avatar:emtavatar:truavatar
 MissJaded,station:avatar
 BurnTheWitch,forcestation:station:avatar
 Scrafteur,station:avatar
@@ -91,10 +91,10 @@ HyphenRain,station:avatar
 Lennonade,station:avatar
 WhimsicalJester,station:avatar
 Mr_hades,station:avatar
-Saryian,station:avatar
+Saryian,station:avatar:rooftop_vipplus
 FluffalEevee,forcestation:station:avatar:emtavatar
 Lè Dinosaur~,station:avatar
-ᴍᴜᴛɪɴʏ,station:avatar
+ĐɆ₳Đ₩Ø₥₳₦,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar
 ~MARSHAL~16,station:avatar

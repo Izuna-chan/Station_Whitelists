@@ -12,7 +12,6 @@ Amaya_VR,forcestation:station:avatar:emtavatar:truavatar
 MINNINGking,station:avatar:rooftop_vipplus
 Mister Chop,rooftop_vipplus
 Koda White Wolf,station:avatar
-~AsieHusky~,station:avatar
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:rooftop_staff
 Phill_Almighty,station:avatar
 Rustthelion,station:avatar:emtavatar

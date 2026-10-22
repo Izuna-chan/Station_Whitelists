@@ -90,7 +90,6 @@ WhimsicalJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar:rooftop_vipplus
 FluffalEevee,forcestation:station:avatar:emtavatar
-Lè Dinosaur~,station:avatar
 ᴍᴜᴛɪɴʏ,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar

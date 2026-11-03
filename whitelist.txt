@@ -22,7 +22,6 @@ Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 BeckyOreoDelta,station:avatar:emtavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:rooftop_staff
-WickedWesker,station:avatar:rooftop_vip
 frost_64,station:avatar
 ShayXavi,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:emtavatar:truavatar:avatar:developer:rooftop_staff

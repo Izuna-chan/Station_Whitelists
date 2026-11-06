@@ -59,7 +59,7 @@ Robin004,station:avatar
 Víper6805,station:avatar
 Keir925,station:avatar
 MissJaded,station:avatar
-BurnTheWitch,forcestation:station:avatar
+BurnTheWitch,forcestation:station:avatar:rooftop_vip
 Scrafteur,station:avatar
 Lightning_Sana,station:avatar
 ozan1,station:avatar

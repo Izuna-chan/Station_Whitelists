@@ -90,7 +90,6 @@ FluffalEevee,forcestation:station:avatar:emtavatar
 ᴍᴜᴛɪɴʏ,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar
-Topshelfguy,station:avatar
 KingNothing8675,station:avatar
 vylant,station:avatar:emtavatar:forcestation:truavatar
 Duran․,station:avatar

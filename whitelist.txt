@@ -17,7 +17,6 @@ Phill_Almighty,station:avatar
 Rustthelion,station:avatar:emtavatar
 akathered,station:avatar
 camthevrgamer17,station:avatar
-The~Gentleman,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:rooftop_staff
 Ranger_Med,station:avatar:emtavatar:forceemtavatar:truavatar
 Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:rooftop_staff

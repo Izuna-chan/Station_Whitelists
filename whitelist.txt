@@ -81,7 +81,7 @@ Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forc
 Phoenix's scout,forcestation:station:avatar
 HyphenRain,station:avatar:forcestation:truavatar:emtavatar:jotm
 Lennonade,station:avatar
-WhimsicalJester,station:avatar
+WhimsyJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar:rooftop_vipplus
 FluffalEevee,forcestation:pickup:station:avatar:emtavatar

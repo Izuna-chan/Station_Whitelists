@@ -85,7 +85,7 @@ WhimsyJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar:rooftop_vipplus
 FluffalEevee,forcestation:pickup:station:avatar:emtavatar
-ᴍᴜᴛɪɴʏ,station:avatar
+ᴋɪᴛʙᴀsʜᴇᴅ,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar
 vylant,station:avatar:emtavatar:forceemtavatar:forcestation:truavatar

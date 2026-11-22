@@ -21,7 +21,6 @@ Chiyo Nøir,station:avatar
 LaserPointer,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:rooftop_staff
 frost_64,station:avatar
 ShayXavi,station:avatar
-NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:avatar:developer:rooftop_staff
 Funnky,station:avatar:developer:forceunapproved
 Nova1976_17 2100,station:avatar
 Missing Spartan,station:avatar

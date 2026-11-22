@@ -38,7 +38,7 @@ Larajanc,station:avatar
 Chippie_poi,station:avatar
 Tycoon11112,station:avatar
 Lordthomas11,station:avatar
-Sniper_of_white,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:avatar:truavatar:rooftop_vip:rooftop_staff
+Kyri³,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:avatar:truavatar:rooftop_vip:rooftop_staff
 Scorch․,station:avatar
 Queen_Crystal,forcestation:station:avatar:emtavatar:forceemtavatar:truavatar
 Airez1x,pickup:station:avatar:truavatar

@@ -1,13 +1,14 @@
 {
-  "version": 30,
-  "updatedAt": "2026-11-04T12:06:28.831Z",
+  "version": 31,
+  "updatedAt": "2026-11-22T19:55:11.678Z",
+  "slotCount": 7,
   "posters": [
     {
       "slot": 0,
       "enabled": false,
       "title": "Cobalt",
       "id": "cobalt",
-      "file": "FRAME_COBALT.jpg",
+      "file": "FRAME_0.jpg",
       "groupId": "grp_83b00147-8ceb-4763-82fe-a8d730eb3717"
     },
     {
@@ -15,7 +16,7 @@
       "enabled": true,
       "title": "Hoppu",
       "id": "hoppu",
-      "file": "FRAME_HOPPU.jpg",
+      "file": "FRAME_1.jpg",
       "groupId": "grp_84d13482-250b-4601-af56-218bdbc42586"
     },
     {
@@ -23,7 +24,7 @@
       "enabled": true,
       "title": "KUS",
       "id": "kus",
-      "file": "FRAME_KUS.jpg",
+      "file": "FRAME_2.jpg",
       "groupId": "grp_d5766e7b-c032-4585-bc68-de09292386d9"
     },
     {
@@ -31,7 +32,7 @@
       "enabled": true,
       "title": "LAB",
       "id": "lab",
-      "file": "FRAME_LAB.jpg",
+      "file": "FRAME_3.jpg",
       "groupId": "grp_415e8d11-bb5a-49bb-af7e-eacd1b729429"
     },
     {
@@ -39,7 +40,7 @@
       "enabled": false,
       "title": "MPS",
       "id": "mps",
-      "file": "FRAME_MPS.jpg",
+      "file": "FRAME_4.jpg",
       "groupId": "grp_676275ff-7524-497d-94a7-efd4389d5e0f"
     },
     {
@@ -47,7 +48,7 @@
       "enabled": true,
       "title": "PrideVR",
       "id": "pridevr",
-      "file": "FRAME_PRIDEVR.jpg",
+      "file": "FRAME_5.jpg",
       "groupId": "grp_548b8449-2fc6-48b8-bbdf-b380401d9b66"
     },
     {
@@ -55,7 +56,7 @@
       "enabled": true,
       "title": "PSI",
       "id": "psi",
-      "file": "FRAME_PSI.jpg",
+      "file": "FRAME_6.jpg",
       "groupId": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07"
     }
   ]

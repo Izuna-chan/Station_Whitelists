@@ -88,7 +88,7 @@ FluffalEevee,forcestation:pickup:station:avatar:emtavatar
 ᴍᴜᴛɪɴʏ,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar
-vylant,station:avatar:emtavatar:forcestation:truavatar
+vylant,station:avatar:emtavatar:forceemtavatar:forcestation:truavatar
 Duran․,station:avatar
 SmolBeannn,station:avatar
 YingShan,station:avatar

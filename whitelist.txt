@@ -74,7 +74,7 @@ Miss-raven,station:avatar
 Darkdemonwolf46,station:avatar
 Frye215,station:avatar
 Phoenix's scout,forcestation:station:avatar
-HyphenRain,station:avatar:forcestation:truavatar:emtavatar:jotm
+HyphenRain,station:avatar:forcestation:truavatar:emtavatar
 Lennonade,station:avatar
 WhimsyJester,station:avatar
 Mr_hades,station:avatar

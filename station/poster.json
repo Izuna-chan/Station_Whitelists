@@ -1,11 +1,11 @@
 {
-  "version": 32,
-  "updatedAt": "2026-11-22T21:00:55.041Z",
+  "version": 33,
+  "updatedAt": "2026-11-22T21:01:00.096Z",
   "slotCount": 7,
   "posters": [
     {
       "slot": 0,
-      "enabled": false,
+      "enabled": true,
       "title": "Cobalt",
       "id": "cobalt",
       "file": "FRAME_0.jpg",

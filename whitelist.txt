@@ -103,3 +103,4 @@ will․723253,station:avatar:emtavatar
 Ionicka,station:avatar
 NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:avatar:developer:rooftop_staff
 RisCooker,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:rooftop_vip:rooftop_staff
+Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff

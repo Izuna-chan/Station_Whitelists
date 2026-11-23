@@ -1,6 +1,6 @@
 {
-  "version": 36,
-  "updatedAt": "2026-11-23T23:45:05.774Z",
+  "version": 37,
+  "updatedAt": "2026-11-23T23:48:05.582Z",
   "slotCount": 8,
   "posters": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "slot": 7,
-      "enabled": true,
+      "enabled": false,
       "title": "Test Group Name",
       "id": "xera",
       "file": "FRAME_7.jpg",

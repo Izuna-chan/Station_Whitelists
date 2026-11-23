@@ -1,7 +1,7 @@
 {
-  "version": 35,
-  "updatedAt": "2026-11-22T21:06:03.154Z",
-  "slotCount": 7,
+  "version": 36,
+  "updatedAt": "2026-11-23T23:45:05.774Z",
+  "slotCount": 8,
   "posters": [
     {
       "slot": 0,
@@ -58,6 +58,14 @@
       "id": "psi",
       "file": "FRAME_6.jpg",
       "groupId": "grp_41a0bb30-90fe-4b53-ac2f-5c134da54f07"
+    },
+    {
+      "slot": 7,
+      "enabled": true,
+      "title": "Test Group Name",
+      "id": "xera",
+      "file": "FRAME_7.jpg",
+      "groupId": "grp_1ed687ce-b577-400f-a7fa-4c5d67a57473"
     }
   ]
 }

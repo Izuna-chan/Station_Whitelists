@@ -105,3 +105,4 @@ NexyQueen_,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:f
 RisCooker,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:rooftop_vip:rooftop_staff
 Crusader_Pug,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:avatar:rooftop_staff
 Xeravax,staff:forcestation:forceavatar:forcetruavatar:forceemtavatar:pickup:forceunapproved:rooftop_announce:rooftop_staffplus:forceitempickup:emtavatar:truavatar:avatar:developer:rooftop_vip:rooftop_staff
+༒sᴇʀᴇɴɪᴛʏ༒,station:avatar

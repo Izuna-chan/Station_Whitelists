@@ -79,7 +79,7 @@ Lennonade,station:avatar
 WhimsyJester,station:avatar
 Mr_hades,station:avatar
 Saryian,station:avatar:rooftop_vipplus
-FluffalEevee,forcestation:pickup:station:avatar:emtavatar:rooftop_staff
+FluffalEevee,forcestation:pickup:station:avatar:emtavatar:rooftop_vip:rooftop_staff
 ᴋɪᴛʙᴀsʜᴇᴅ,station:avatar
 MrSonic38,station:avatar
 DovahkiinXP,station:avatar
